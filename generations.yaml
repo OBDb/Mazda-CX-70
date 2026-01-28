@@ -1,0 +1,10 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mazda_CX-90"
+
+generations:
+  - name: "First Generation"
+    start_year: 2024
+    end_year: present
+    description: "Two-row full-size crossover SUV, the two-row variant of the CX-90. Built on Mazda's Large Product Group platform with longitudinal engine and rear-biased all-wheel-drive system. Features the same dimensions and engine options as the CX-90 with minor styling differences including unique front and rear bumper designs, black exterior accents replacing chrome, and unique wheel designs. Produced in Japan at Hōfu Plant No. 2."
+    platform: "Large Product Group"
+    body_style: "5-door SUV"
